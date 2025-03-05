@@ -1,3 +1,4 @@
+MYSQL CODE:-
 DROP TABLE IF EXISTS `student`;
 CREATE TABLE `student` (
     `student_id` INT(10) NOT NULL AUTO_INCREMENT,
@@ -138,7 +139,7 @@ CREATE TABLE `result` (
 
 
 
-
+MONGODB CODE:-
 
 STUDENT 
 {
